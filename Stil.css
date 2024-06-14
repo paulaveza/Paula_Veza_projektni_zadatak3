@@ -14,6 +14,11 @@ p {
 	opacity: 0.9;
 }
 
+@fontface {
+	font-family: "PaulaVeza", sans-serif;
+	src: url("Dokumenti/PaulaVeza.ttf");
+}
+
 body{
 	background-image: url("Slike/flowers-4931217_1280.png");
 	background-color: #e6e7ff;
