@@ -16,17 +16,18 @@ p {
 
 @font-face {
 	font-family: "PaulaVeza";
-	src: url("Dokumenti/PaulaVeza.ttf");
-	format: ("ttf");
-	font-weight: normal;
-	font-style: normal;
+	src: url("Dokumenti/Paula_Veza_projektni_zadatak1.ttf") format("truetype");
 }
 
-body {
-	font-family: "PaulaVeza", serif;
+h1 {
+	font-family: "Paula_Veza_projektni_zadatak1.ttf", sans-serif;
 }
 
 body{
 	background-image: url("Slike/flowers-4931217_1280.png");
 	background-color: #e6e7ff;
+}
+
+.p1 {
+	font-family: "PaulaVeza";
 }
