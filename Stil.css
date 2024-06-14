@@ -14,9 +14,16 @@ p {
 	opacity: 0.9;
 }
 
-h1 {
+@font-face {
 	font-family: "PaulaVeza";
 	src: url("Dokumenti/PaulaVeza.ttf");
+	format: ("ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: "PaulaVeza", serif;
 }
 
 body{
